@@ -1,0 +1,15 @@
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\bin\Debug\net7.0\Atividade passagens aereas correção.exe
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\bin\Debug\net7.0\Atividade passagens aereas correção.deps.json
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\bin\Debug\net7.0\Atividade passagens aereas correção.runtimeconfig.json
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\bin\Debug\net7.0\Atividade passagens aereas correção.dll
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\bin\Debug\net7.0\Atividade passagens aereas correção.pdb
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.csproj.AssemblyReference.cache
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.AssemblyInfoInputs.cache
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.AssemblyInfo.cs
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.csproj.CoreCompileInputs.cache
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.dll
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\refint\Atividade passagens aereas correção.dll
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.pdb
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\Atividade passagens aereas correção.genruntimeconfig.cache
+C:\Users\56262631879\Desktop\Atividade passagens aereas correção\obj\Debug\net7.0\ref\Atividade passagens aereas correção.dll
